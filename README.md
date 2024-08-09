@@ -1,5 +1,5 @@
 
-# Estudos de Javascript e Lógica de Programaçaõ
+# Estudos de Javascript e Lógica de Programação
 
 Repositório para aplicação do meus aprendizados durante o curso de `Lógica de programação: praticando com desafios` da Alura.
 
